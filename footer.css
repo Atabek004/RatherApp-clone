@@ -1,0 +1,27 @@
+.footer1{
+    padding: 10px 0px;
+    color: aliceblue;
+    justify-content: space-between;
+    gap: 303px;
+    display: flex;
+    margin: -10px;
+    background-image: url('gif1.gif'); 
+    background-position: center;
+    background-size: cover;
+}
+
+.footer1 li{
+    list-style: none;
+    
+}
+
+h3{
+    
+    margin-left: 40PX;
+}
+.footer1 a{
+    text-decoration: none;
+}
+a{
+    color: aliceblue;  
+}

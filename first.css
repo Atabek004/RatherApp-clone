@@ -1,0 +1,113 @@
+.first{
+    color: blueviolet;
+    background-color: antiquewhite;
+    text-align: center;
+    margin: auto;
+    height: 200px;
+    width: 35%;
+    padding: 11px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 20px black;
+    position: relative ;
+    top: 300px;
+    background-image: url(https://static.baza.drom.ru/drom/1625286486358_bulletin)
+    
+}
+
+button{
+
+  background-color: #bbb5ad;
+  color: rgb(204, 28, 28); 
+  border: none; 
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px; 
+  border-radius: 5px; 
+  transition: 2s;
+  box-shadow: 2 px 2 px 20 px burlywood;
+  transform: matrix(2 px 3px 20px);
+
+}
+.title2{
+    font-size: 25px;
+    font-style: inherit;
+    background-color: bisque;
+    
+}
+
+.title{
+    font-size: 20px;
+    background-color: aquamarine;
+
+}
+
+.main{
+    width: 100%;
+    height: 650px;
+    background-image: url(https://img.md-exclusive-cardesign.com/wp-content/uploads/2019/10/mercedes-cls-63-amg-w218-black-series-abgasanlage-md-exclusive-cardesign-2-1024x576.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    font-size: 33px;
+    background: linear-gradient(34px 34px 122px);
+    margin: 0;
+    background-attachment: scroll;
+    
+
+}
+
+.main4{
+    width: 100%;
+    height: 600px;
+    background-color: rgb(161, 147, 175);
+    background-image:  url(https://avatars.mds.yandex.net/i?id=9ac3c5a29ef94a011d27ec8a653440bc_l-8220915-images-thumbs&ref=rim&n=13&w=2048&h=1272);
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+background-position: center;    
+background-attachment: scroll;
+}
+
+.main5{
+    font-size: 20px;
+    text-align: center;
+    background-color: yellowgreen;
+
+}
+
+.class6{
+    background-color: blue;
+}
+
+.class7{
+    background-color: brown;
+}
+
+.main2{
+    text-align: center;
+    font-size: 33px;
+}
+
+.main3{
+    text-align: center;
+    font-size: 33px;
+}
+
+.etb1124{
+    width: 100%;
+    height: 600px;
+    background: linear-gradient(to bottom ,red,yellowgreen);
+}
+
+.classs{
+    width: 100%;
+    height: 600px;
+    background: linear-gradient(to  top blue, brown);
+}
+  
+  
+  
+  

@@ -1,0 +1,190 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+header{
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 11px 68pxii;
+    box-shadow: 0px 2px 10px gray;
+}
+.ul1{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    gap: 40px;
+     
+}
+
+
+.ul1 li a {
+    text-decoration: none;
+    color: black;
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 900;
+}
+.title{
+    font-size: 36px;
+    color: aliceblue;
+}
+.section1{
+    background-image: url(https://avatars.mds.yandex.net/i?id=3fe75d2a9d458c2641082b9bba2ab5db_l-12503299-images-thumbs&n=13);
+    width: 100%;
+    background-size: cover;
+    height: 900px;
+}
+
+h1{
+    text-align: center;
+}
+
+.a{
+    width: 25%;
+    padding: 20px;
+    background: gray(255, 255, 255, 0.5); 
+    border-radius: 8px;
+    box-shadow: 2px 2px 10px yellow(123. 144, 143);
+    text-align: center;
+    margin: 200px 500px;
+}
+
+.section1{
+     background-image:url(https://name-style.ru/assets/cache_image/brands/models/mercedes-cls-klasse-cls-63-amg_1000x600_cf9.jpg);
+     background-position:center;
+     background-size: cover;
+     background-repeat: space;
+     width: 100%;
+     height: 600px;
+     background-color: rgb(226, 231, 232);
+     font-display: 20px;
+     flex-direction: column;
+     justify-content: center;
+     text-transform: uppercase;
+     align-items: center;
+    display: flex;
+    gap: 22px; 
+    
+}
+
+.section2{
+    width: 100%;
+    height: 600px;
+
+} 
+.center-text{
+    text-align: center;
+}
+.section1 a{ 
+    font-size: 15px;
+    color: chartreuse;
+    padding: 15px 53px;
+    background-color: blue;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 650px;
+}
+
+.section1 a:hover{
+    background-color: rgb(7, 248, 47);
+    transition: 1s;
+
+}
+
+.ul1 li :hover{
+    transition: 2s;
+    border-bottom: 4px solid rgb(240, 131, 7);
+
+}
+.navh{
+    display: flex;
+    gap: 50px;
+    flex-direction: row;
+    align-items: center;
+
+}
+.DIV2{
+    display: flex;
+    width: 50px;
+    justify-content: center;
+
+}.DIV ELEMENT{
+    width: 66px;
+    height: 5px;
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: space-between;
+    padding: 33px 22px;
+    align-items: center;
+    box-shadow: 0 0 15px --5px black(0 0 0 0.17);
+    margin: 0 15px 33px;
+    flex-direction: column;
+
+}
+.LINE{
+    width: 77px;
+    height: 2px;
+    background-color: blueviolet;
+}
+.section3{
+    background-color: antiquewhite;
+    width: 100%;
+    background-size: cover;
+    padding: 100PX 300px;
+    display: grid;
+    gap: 300PX;
+
+
+}
+.section3 H3{
+    font-size: 33px;
+    color: white;
+    margin: 0;
+}
+.LEARNMOREABOUTIT{
+
+}
+.sec.div{
+    display: grid;
+    gap: 30px;
+
+    
+}
+
+@media(max-width: 1042px){
+    .ul1{
+        display: none;
+    }
+}
+.section2{
+    display: flex;
+    flex-direction: column;
+    height: auto;
+    gap: 50px;
+}
+.div1, div2{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+.
+
+.div1 img{
+    padding: 0;
+
+}
+.media (max-width: 44px){
+    header img{
+        width: 100px;
+
+    }
+    .login-button{
+        padding: 8px 15px;
+    }
+    .section1 h1{
+        font-size: 240px;
+    }
+}

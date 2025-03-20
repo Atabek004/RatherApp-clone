@@ -1,0 +1,53 @@
+body{
+    
+    padding: 0%;
+    margin: 0;
+}
+
+.menu{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    background-color: orange;
+
+}
+
+.text{
+    position: relative;
+
+
+}
+
+.text a{
+    
+    padding: 10px 20px;
+
+}
+
+.menu a{
+    display: block;
+    padding: 10% 20px;
+    color: white;
+    text-decoration: none;
+}
+
+.submenu{
+    position: absolute;
+    top: 100%;
+    left: 0%;
+    display: none;
+    background-color: gray;
+    list-style-type: none;
+    border: 2px solid red;
+    font-weight: 800px;
+    
+    width: 150px;
+    margin: 0;
+    padding: 0;
+}
+
+.text:hover .submenu{
+    display: block;
+
+} 

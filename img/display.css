@@ -1,0 +1,53 @@
+body{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    height: 100vh;
+    background-image: url(https://avatars.mds.yandex.net/i?id=1c80a0daf321c76eee9cc5eda2c09d1f_l-4530193-images-thumbs&n=13);
+}
+.div1{
+   display: flex;
+   align-items: center;
+   background-color: antiquewhite;
+   width: 600px;
+   border: 45px 22px;
+   border-radius: 22px;
+   box-shadow: 2px 2px 67px red;
+}
+.div2{
+    background-color: rgb(231, 174, 100);
+    border-radius: 10px;
+    padding: 10px;
+    margin: 20px 20px;
+    align-items: center;
+    box-shadow: 2px 2px 55px blueviolet;
+    margin: 20px 20px;
+    
+
+    
+    
+ }
+ .div2 span{
+    display: block;
+    font-size: 15px;
+ }
+
+ .first{
+    background-color: antiquewhite;
+
+ }
+    button{
+        background-color: rgb(255, 230, 0);
+        border-radius: 12px;
+    }
+    strong{
+        color: green;
+    }
+
+    .first{
+        box-shadow: 2px 2px 12px yellow; 
+    }
+
+    ul{
+        list-style: none;
+    }
